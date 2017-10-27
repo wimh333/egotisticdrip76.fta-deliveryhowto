@@ -26,16 +26,18 @@ IaaS Fundamentals covers the core IaaS services (ARM, storage, compute and netwo
 	|Azure Overview	     |	PowerPoint	|30 min		|Delivery Ready IP\IaaS Fundamentals\ FTA - Azure Overview.pptx
 
 	|Resource Manager    |	PowerPoint	|1 h		|Delivery Ready IP\IaaS Fundamentals\ FTA - Core IaaS Services - Resource Manager.pptx
-	|Storage 	     |  PowerPoint	|1 h	Delivery Ready IP\IaaS Fundamentals\ FTA - Core IaaS Services - Storage.pptx
-
-Compute	PowerPoint	1 h	Delivery Ready IP\IaaS Fundamentals\ FTA - Core IaaS Services - Compute.pptx
-
-Networking	PowerPoint	1 h	Delivery Ready IP\Networking\ Azure - Networking Overview.pptx
-Office Mix video: https://mix.office.com/watch/9f3x03k6p2lb 
-
-Governance	PowerPoint	1 h	Content Development\Azure Fundamentals\Governance\ Azure Governance.pptx
-Architectural design best practices & guidance	PowerPoint	1 h	Delivery Ready IP\Design Principles\Design Principles for building applications on Azure IaaS.pptx
-
-POC Scenario 1: Deploying Website on Azure IaaS VMs - HTTP	GitHub	3 h	https://github.com/Azure/onboarding-guidance/blob/master/Scenarios/POC%20Scenario-HTTP.md 
+	|Storage 	     |  PowerPoint	|1 h		|Delivery Ready IP\IaaS Fundamentals\ FTA - Core IaaS Services - Storage.pptx
+	|Compute	     |  PowerPoint	|1 h		|Delivery Ready IP\IaaS Fundamentals\ FTA - Core IaaS Services - Compute.pptx
+	|Networking	     |  PowerPoint	|1 h		|Delivery Ready IP\Networking\ Azure - Networking Overview.pptx
+Office Mix video: https://mix.office.com/watch/9f3x03k6p2lb
+	|Governance	     |  PowerPoint	|1 h	   	|Content Development\Azure Fundamentals\Governance\ Azure Governance.pptx
+	|Architectural 
+	|design best 
+	|practices & 
+	|guidance	     |  PowerPoint	|1 h		|Delivery Ready IP\Design Principles\Design Principles for building applications on Azure IaaS.pptx
+	|POC Scenario 1: 
+	|Deploying Website 
+	|on Azure IaaS 
+	|VMs - HTTP	     |  GitHub		|3 h		|https://github.com/Azure/onboarding-guidance/blob/master/Scenarios/POC%20Scenario-HTTP.md 
 
 
