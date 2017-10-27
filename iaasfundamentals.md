@@ -20,7 +20,7 @@ IaaS Fundamentals covers the core IaaS services (ARM, storage, compute and netwo
 
 # Delivery
 	|Source format	|Estimated time	|Deliver from
-FastTrack for Azure 	PowerPoint	15 min	Delivery Ready IP\zzz Review if still needed or needed to be hosted here \FastTrack for Azure – Intro.pptx
+|FastTrack for Azure |	PowerPoint	|15 min	|Delivery Ready IP\zzz Review if still needed or needed to be hosted here \FastTrack for Azure – Intro.pptx
 Intro / main deck	PowerPoint	15 min	Delivery Ready IP\IaaS Fundamentals\ FTA - Core IaaS Services - Main deck.pptx
 Azure Overview	PowerPoint	30 min	Delivery Ready IP\IaaS Fundamentals\ FTA - Azure Overview.pptx
 Resource Manager	PowerPoint	1 h	Delivery Ready IP\IaaS Fundamentals\ FTA - Core IaaS Services - Resource Manager.pptx
