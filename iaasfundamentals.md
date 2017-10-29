@@ -20,38 +20,17 @@ IaaS Fundamentals covers the core IaaS services (ARM, storage, compute and netwo
 
 # Delivery
 
-|  | Source format | Estimated time | Deliver from |
-| ------------- | ------------- | ------------- | ------------- |
-| FastTrack for Azure | PowerPoint | 15 min | Delivery Ready IP\_FTA program Overview and meet the team\Fast Track for Azure - Introduction to the program and team.pptx |
-| Intro / main deck | PowerPoint | 15 min  | Delivery Ready IP\IaaS Fundamentals\ FTA - Core IaaS Services - Main deck.pptx |
-| Azure Overview | PowerPoint | 30 min | Delivery Ready IP\IaaS Fundamentals\ FTA - Azure Overview.pptx |
-| Resource Manager | PowerPoint | 1 h | Delivery Ready IP\IaaS Fundamentals\ FTA - Core IaaS Services - Resource Manager.pptx |
-| Storage  | PowerPoint | 1 h | Delivery Ready IP\IaaS Fundamentals\ FTA - Core IaaS Services - Storage.pptx |
-| Compute | PowerPoint | 1 h | Delivery Ready IP\IaaS Fundamentals\ FTA - Core IaaS Services - Compute.pptx |
-| Networking | PowerPoint | 1 h | Delivery Ready IP\Networking\ Azure - Networking Overview.pptx |
+|  | Source format | Estimated time | Deliver from | Readiness Resources |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| FastTrack for Azure | PowerPoint | 15 min | [Delivery Ready IP\_FTA program Overview and meet the team\Fast Track for Azure - Introduction to the program and team.pptx](https://microsoft.sharepoint.com/:p:/t/fasttrackforazure/CE/EcazqrisnQ9HtMeUpJJ3qhwBidLwLxU3YR--unHegKsdeg?e=ec5f9090fcc641238f3a683942df2b5b) | | 
+| Intro / main deck | PowerPoint | 15 min  | [Delivery Ready IP\IaaS Fundamentals\ FTA - Core IaaS Services - Main deck.pptx](https://microsoft.sharepoint.com/:f:/t/fasttrackforazure/CE/EqdM7nbWFZFMi88REfFSUA0BbUE-vqykgYlfULc2wAlflQ?e=53f4946a6fd54acc9528a4e4c0b9001f) | | 
+| Azure Overview | PowerPoint | 30 min | [Delivery Ready IP\IaaS Fundamentals\ FTA - Azure Overview.pptx](https://microsoft.sharepoint.com/:f:/t/fasttrackforazure/CE/EqdM7nbWFZFMi88REfFSUA0BbUE-vqykgYlfULc2wAlflQ?e=53f4946a6fd54acc9528a4e4c0b9001f) | | 
+| Resource Manager | PowerPoint | 1 h | [Delivery Ready IP\IaaS Fundamentals\ FTA - Core IaaS Services - Resource Manager.pptx](https://microsoft.sharepoint.com/:f:/t/fasttrackforazure/CE/EqdM7nbWFZFMi88REfFSUA0BbUE-vqykgYlfULc2wAlflQ?e=53f4946a6fd54acc9528a4e4c0b9001f) | | 
+| Storage  | PowerPoint | 1 h | [Delivery Ready IP\IaaS Fundamentals\ FTA - Core IaaS Services - Storage.pptx](https://microsoft.sharepoint.com/:f:/t/fasttrackforazure/CE/EqdM7nbWFZFMi88REfFSUA0BbUE-vqykgYlfULc2wAlflQ?e=53f4946a6fd54acc9528a4e4c0b9001f) | | 
+| Compute | PowerPoint | 1 h | [Delivery Ready IP\IaaS Fundamentals\ FTA - Core IaaS Services - Compute.pptx](https://microsoft.sharepoint.com/:f:/t/fasttrackforazure/CE/EqdM7nbWFZFMi88REfFSUA0BbUE-vqykgYlfULc2wAlflQ?e=53f4946a6fd54acc9528a4e4c0b9001f) | | 
+| Networking | PowerPoint | 1 h | [Delivery Ready IP\Networking\ Azure - Networking Overview.pptx](https://microsoft.sharepoint.com/:f:/t/fasttrackforazure/CE/EoKoA61s48JJr3TDWEj22hEBeQwAZUVHokBkAYuRplzF8A?e=1ac32b8936a748208755a3b5c8b7981c) | | 
 | Governance | PowerPoint | 1 h | Delivery Ready IP\Azure Governance\ FTA - Azure Governance.pptx |
-| Architectural design best practices & guidance | PowerPoint | 1 h | [Delivery Ready IP\Design Principles\Design Principles for building applications on Azure IaaS.pptx](https://microsoft.sharepoint.com/teams/fasttrackforazure/CE/Shared Documents/Forms/AllItems.aspx?viewpath=%2Fteams%2Ffasttrackforazure%2FCE%2FShared%20Documents&id=%2Fteams%2Ffasttrackforazure%2FCE%2FShared%20Documents%2FDelivery%20Ready%20IP%2FDesign%20Principles) |
-| POC Scenario 1: Deploying Website on Azure IaaS VMs - HTTP | GitHub | 3 h | [https://github.com/Azure/onboarding-guidance/blob/master/Scenarios/POC%20Scenario-HTTP.md](https://github.com/Azure/onboarding-guidance/blob/master/Scenarios/POC%20Scenario-HTTP.md) |
-
-
-	|	     	     |Source format 	|Estimated time	|Deliver from
-	|--------------------|------------------|---------------|--------------
-	|FastTrack for Azure |	PowerPoint	|15 min		||Delivery Ready IP\zzz Review if still needed or needed to be hosted here \FastTrack for Azure – Intro.pptx
-	|Intro / main deck   |	PowerPoint	|15 min		|Delivery Ready IP\IaaS Fundamentals\ FTA - Core IaaS Services - Main deck.pptx
-	|Azure Overview	     |	PowerPoint	|30 min		|Delivery Ready IP\IaaS Fundamentals\ FTA - Azure Overview.pptx
-
-	|Resource Manager    |	PowerPoint	|1 h		|Delivery Ready IP\IaaS Fundamentals\ FTA - Core IaaS Services - Resource Manager.pptx
-	|Storage 	     |  PowerPoint	|1 h		|Delivery Ready IP\IaaS Fundamentals\ FTA - Core IaaS Services - Storage.pptx
-	|Compute	     |  PowerPoint	|1 h		|Delivery Ready IP\IaaS Fundamentals\ FTA - Core IaaS Services - Compute.pptx
-	|Networking	     |  PowerPoint	|1 h		|Delivery Ready IP\Networking\ Azure - Networking Overview.pptx Office Mix video: https://mix.office.com/watch/9f3x03k6p2lb
-	|Governance	     |  PowerPoint	|1 h	   	|Content Development\Azure Fundamentals\Governance\ Azure Governance.pptx
-	|Architectural 	     |			|		|
-	|design best         |			|		|
-	|practices &         |			|		|
-	|guidance	     |  PowerPoint	|1 h		|Delivery Ready IP\Design Principles\Design Principles for building applications on Azure IaaS.pptx
-	|POC Scenario 1:     |			|		|
-	|Deploying Website   |			|		|
-	|on Azure IaaS       |			|		|
-	|VMs - HTTP	     |  GitHub		|3 h		|https://github.com/Azure/onboarding-guidance/blob/master/Scenarios/POC%20Scenario-HTTP.md 
+| Architectural design best practices & guidance | PowerPoint | 1 h | [Delivery Ready IP\Design Principles\Design Principles for building applications on Azure IaaS.pptx](https://microsoft.sharepoint.com/:f:/t/fasttrackforazure/CE/EjABgiKkspREqEh8agbKc9YBL8LPUOA-rukegOqXk7Oz6w?e=0c149667f1ad44d18b14f01371f28f2d) | | 
+| POC Scenario 1: Deploying Website on Azure IaaS VMs - HTTP | GitHub | 3 h | [https://github.com/Azure/onboarding-guidance/blob/master/Scenarios/POC%20Scenario-HTTP.md](https://github.com/Azure/onboarding-guidance/blob/master/Scenarios/POC%20Scenario-HTTP.md) | | 
 
 
