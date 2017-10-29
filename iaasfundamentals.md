@@ -4,7 +4,7 @@ IaaS Fundamentals covers the core IaaS services (ARM, storage, compute and netwo
 # Agenda
 * Azure Overview
 * Azure Services
-* core IaaS Services
+* Core IaaS Services
 * Resource Manager
 * Storage 
 * Compute
@@ -19,6 +19,21 @@ IaaS Fundamentals covers the core IaaS services (ARM, storage, compute and netwo
 * 1 person per session with the ability to share screen over skype meeting
 
 # Delivery
+
+|  | Source format | Estimated time | Deliver from |
+| ------------- | ------------- | ------------- | ------------- |
+| FastTrack for Azure | PowerPoint | 15 min | Delivery Ready IP\_FTA program Overview and meet the team\Fast Track for Azure - Introduction to the program and team.pptx |
+| Intro / main deck | PowerPoint | 15 min  | Delivery Ready IP\IaaS Fundamentals\ FTA - Core IaaS Services - Main deck.pptx |
+| Azure Overview | PowerPoint | 30 min | Delivery Ready IP\IaaS Fundamentals\ FTA - Azure Overview.pptx |
+| Resource Manager | PowerPoint | 1 h | Delivery Ready IP\IaaS Fundamentals\ FTA - Core IaaS Services - Resource Manager.pptx |
+| Storage  | PowerPoint | 1 h | Delivery Ready IP\IaaS Fundamentals\ FTA - Core IaaS Services - Storage.pptx |
+| Compute | PowerPoint | 1 h | Delivery Ready IP\IaaS Fundamentals\ FTA - Core IaaS Services - Compute.pptx |
+| Networking | PowerPoint | 1 h | Delivery Ready IP\Networking\ Azure - Networking Overview.pptx |
+| Governance | PowerPoint | 1 h | Delivery Ready IP\Azure Governance\ FTA - Azure Governance.pptx |
+| Architectural design best practices & guidance | PowerPoint | 1 h | [Delivery Ready IP\Design Principles\Design Principles for building applications on Azure IaaS.pptx](https://microsoft.sharepoint.com/teams/fasttrackforazure/CE/Shared Documents/Forms/AllItems.aspx?viewpath=%2Fteams%2Ffasttrackforazure%2FCE%2FShared%20Documents&id=%2Fteams%2Ffasttrackforazure%2FCE%2FShared%20Documents%2FDelivery%20Ready%20IP%2FDesign%20Principles) |
+| POC Scenario 1: Deploying Website on Azure IaaS VMs - HTTP | GitHub | 3 h | [https://github.com/Azure/onboarding-guidance/blob/master/Scenarios/POC%20Scenario-HTTP.md](https://github.com/Azure/onboarding-guidance/blob/master/Scenarios/POC%20Scenario-HTTP.md) |
+
+
 	|	     	     |Source format 	|Estimated time	|Deliver from
 	|--------------------|------------------|---------------|--------------
 	|FastTrack for Azure |	PowerPoint	|15 min		||Delivery Ready IP\zzz Review if still needed or needed to be hosted here \FastTrack for Azure – Intro.pptx
