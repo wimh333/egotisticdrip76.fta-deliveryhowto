@@ -3,7 +3,7 @@
 See our [FastTrack for Azure landing page](https://github.com/Azure/FastTrackForAzure) for more inforation.
 
 # Guidelines how to deliver engagements for FastTrack
-* [IaaS Fundamentals](fta-deliveryhowto/blob/master/iaasfundamentals.md)
+* [IaaS Fundamentals](https://github.com/Azure/fta-deliveryhowto/blob/master/iaasfundamentals.md)
 
 # Contributing
 
