@@ -5,44 +5,44 @@ See our [FastTrack for Azure landing page](https://github.com/Azure/FastTrackFor
 # Guidelines to deliver engagements
 
 * Azure Fundamentals
-  * [IaaS Fundamentals](https://github.com/Azure/fta-deliveryhowto/blob/master/iaasfundamentals.md)
-  * PaaS Fundamentals
-  * Governance
+  * [IaaS Fundamentals](iaas-fundamentals.md)
+  * [PaaS Fundamentals](paas-fundamentals.md)
+  * [Governance](governance.md)
 
 * Managed Disks
-  * Managed Disks
+  * [Managed Disks](managed-disks.md)
 
 * Backup, Archive & Disaster Recovery
-  * Backup and Archive
-  * Disaster Recovery with ASR
+  * [Backup and Archive](backup-and-archive.md)
+  * [Disaster Recovery with ASR](disaster-recovery-with-asr.md)
 
 * Internal Business Apps
-  * App Modernization
-  * Lift and Shift
+  * [App Modernization](app-modernization.md)
+  * [Lift and Shift](lift-and-shift.md)
 
 * Customer Facing Apps
-  * Digital Marketing
-  * E-commerce
+  * [Digital Marketing](digital-marketing.md)
+  * [E-commerce](e-commerce.md)
 
 * Data Platform
-  * SQL on Azure IaaS
-  * Azure SQL DB
+  * [SQL on Azure IaaS](sql-on-azure-iaas.md)
+  * [Azure SQL DB](azure-sql-db.md)
 
 * SAP on Azure
-  * Windows
-  * Linux
+  * [Windows](sap-windows.md)
+  * [Linux](sap-linux.md)
 
 * DevOps
-  * DevTest Labs
-  * Mobile DevOps
-  * VSTS
+  * [DevTest Labs](devtest-labs.md)
+  * [Mobile DevOps](mobile-devops.md)
+  * [VSTS](vsts.md)
 
 * Architectural Review
-  * App Modernization
-  * Backup, Disaster Recovery & Archive
-  * Database
-  * Lift and Shift
-  * Devtest
+  * [App Modernization](architectural-review-app-modernization.md)
+  * [Backup, Disaster Recovery & Archive](architectural-review-backup-dr-archive.md)
+  * [Database](architectural-review-database.md)
+  * [Lift and Shift](architectural-review-lift-and-shift.md)
+  * [Devtest](architectural-review-devtest.md)
 
 
 # Contributing

@@ -1,4 +1,4 @@
-# PaaS Fundamentals
+# E-commerce
 
 ## Service description
 

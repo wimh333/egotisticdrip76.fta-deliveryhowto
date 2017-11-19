@@ -1,4 +1,4 @@
-# PaaS Fundamentals
+# Digital Marketing
 
 ## Service description
 

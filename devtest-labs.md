@@ -1,4 +1,4 @@
-# PaaS Fundamentals
+# DevTest Labs
 
 ## Service description
 

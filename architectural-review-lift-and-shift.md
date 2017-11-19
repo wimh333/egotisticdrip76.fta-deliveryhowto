@@ -1,4 +1,4 @@
-# PaaS Fundamentals
+# Architectural Review - Lift and Shift
 
 ## Service description
 

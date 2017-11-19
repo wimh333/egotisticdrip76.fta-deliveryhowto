@@ -1,4 +1,4 @@
-# PaaS Fundamentals
+# Azure SQL DB
 
 ## Service description
 

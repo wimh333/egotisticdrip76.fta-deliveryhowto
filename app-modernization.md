@@ -1,4 +1,4 @@
-# PaaS Fundamentals
+# App Modernization
 
 ## Service description
 

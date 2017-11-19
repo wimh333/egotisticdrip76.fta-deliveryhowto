@@ -1,4 +1,4 @@
-# PaaS Fundamentals
+# SAP on Azure - Linux
 
 ## Service description
 

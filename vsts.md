@@ -1,4 +1,4 @@
-# PaaS Fundamentals
+# VSTS
 
 ## Service description
 
