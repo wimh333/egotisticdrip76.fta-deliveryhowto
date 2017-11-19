@@ -2,8 +2,48 @@
 
 See our [FastTrack for Azure landing page](https://github.com/Azure/FastTrackForAzure) for more inforation.
 
-# Guidelines how to deliver engagements for FastTrack
-* [IaaS Fundamentals](https://github.com/Azure/fta-deliveryhowto/blob/master/iaasfundamentals.md)
+# Guidelines to deliver engagements
+
+* Azure Fundamentals
+  * [IaaS Fundamentals](https://github.com/Azure/fta-deliveryhowto/blob/master/iaasfundamentals.md)
+  * PaaS Fundamentals
+  * Governance
+
+* Managed Disks
+  * Managed Disks
+
+* Backup, Archive & Disaster Recovery
+  * Backup and Archive
+  * Disaster Recovery with ASR
+
+* Internal Business Apps
+  * App Modernization
+  * Lift and Shift
+
+* Customer Facing Apps
+  * Digital Marketing
+  * E-commerce
+
+* Data Platform
+  * SQL on Azure IaaS
+  * Azure SQL DB
+
+* SAP on Azure
+  * Windows
+  * Linux
+
+* DevOps
+  * DevTest Labs
+  * Mobile DevOps
+  * VSTS
+
+* Architectural Review
+  * App Modernization
+  * Backup, Disaster Recovery & Archive
+  * Database
+  * Lift and Shift
+  * Devtest
+
 
 # Contributing
 
