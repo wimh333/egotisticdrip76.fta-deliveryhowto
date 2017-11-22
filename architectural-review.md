@@ -48,7 +48,7 @@ This guide supports discussion during FastTrack for Azure Architectural Guidance
 ### Steps
 * Step 1 - Define Goals & Objectives
 
-  What is the vision for the end state
+  What is the vision for the end state?
   * Focus is on creating clear definitions of the problem/goals and understanding the high level approach to solving the problem
   * Ensure a common vision and reach consensus among the team members
 
