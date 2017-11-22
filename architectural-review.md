@@ -47,11 +47,13 @@ This guide supports discussion during FastTrack for Azure Architectural Guidance
 
 ### Steps
 * Step 1 - Define Goals & Objectives
+
   What is the vision for the end state
   * Focus is on creating clear definitions of the problem/goals and understanding the high level approach to solving the problem
   * Ensure a common vision and reach consensus among the team members
 
 * Step 2 - Identify Business Goals (Non-Functional Requirements)
+
   Vision for the end state driven by:
   * High level requirements, business goals
     * Reduce TCO (hardware, reliability, etc)
@@ -59,6 +61,7 @@ This guide supports discussion during FastTrack for Azure Architectural Guidance
   * Design goals
     * High availability and reliability (improve SLA), robust security, high performance and scalability, consolidation of servers, avoid single points of failure/transient faults, health, etc
   * Scope
+  
   ** A common way of gathering and analyzing information is through developing use-cases and building usage scenarios to document the business processes and user requirements. While use cases describe the high level interactions between an individual and the system, usage scenarios provide additional information about the activities and task sequences that constitute a process
 
 * Step 3 - High-Level Techical Design (dependency map)
