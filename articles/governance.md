@@ -40,4 +40,4 @@ Azure Governance
 
 ## Output to customer
 
-[Governance](governance/articles/)
+* **DO NOT USE - WIP** [Governance GitHub page](https://github.com/Azure/fta-azurefundamentals/tree/master/governance)
