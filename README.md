@@ -5,44 +5,44 @@ See our [FastTrack for Azure landing page](https://github.com/Azure/FastTrackFor
 # Guidelines to deliver engagements
 
 * Azure Fundamentals
-  * [IaaS Fundamentals](iaas-fundamentals.md)
-  * [PaaS Fundamentals](paas-fundamentals.md)
-  * [Governance](governance.md)
+  * [IaaS Fundamentals](articles/iaas-fundamentals.md)
+  * [PaaS Fundamentals](articles/paas-fundamentals.md)
+  * [Governance](articles/governance.md)
 
 * Managed Disks
-  * [Managed Disks](managed-disks.md)
+  * [Managed Disks](articles/managed-disks.md)
 
 * Backup, Archive & Disaster Recovery
-  * [Backup and Archive](backup-and-archive.md)
-  * [Disaster Recovery with ASR](disaster-recovery-with-asr.md)
+  * [Backup and Archive](articles/backup-and-archive.md)
+  * [Disaster Recovery with ASR](articles/disaster-recovery-with-asr.md)
 
 * Internal Business Apps
-  * [App Modernization](app-modernization.md)
-  * [Lift and Shift](lift-and-shift.md)
+  * [App Modernization](articles/app-modernization.md)
+  * [Lift and Shift](articles/lift-and-shift.md)
 
 * Customer Facing Apps
-  * [Digital Marketing](digital-marketing.md)
-  * [E-commerce](e-commerce.md)
+  * [Digital Marketing](articles/digital-marketing.md)
+  * [E-commerce](articles/e-commerce.md)
 
 * Data Platform
-  * [SQL on Azure IaaS](sql-on-azure-iaas.md)
-  * [Azure SQL DB](azure-sql-db.md)
+  * [SQL on Azure IaaS](articles/sql-on-azure-iaas.md)
+  * [Azure SQL DB](articles/azure-sql-db.md)
 
 * SAP on Azure
-  * [Windows](sap-windows.md)
-  * [Linux](sap-linux.md)
+  * [Windows](articles/sap-windows.md)
+  * [Linux](articles/sap-linux.md)
 
 * DevOps
-  * [DevTest Labs](devtest-labs.md)
-  * [Mobile DevOps](mobile-devops.md)
-  * [VSTS](vsts.md)
+  * [DevTest Labs](articles/devtest-labs.md)
+  * [Mobile DevOps](articles/mobile-devops.md)
+  * [VSTS](articles/vsts.md)
 
 * Architectural Review
-  * [App Modernization](architectural-review-app-modernization.md)
-  * [Backup, Disaster Recovery & Archive](architectural-review-backup-dr-archive.md)
-  * [Database](architectural-review-database.md)
-  * [Lift and Shift](architectural-review-lift-and-shift.md)
-  * [Devtest](architectural-review-devtest.md)
+  * [App Modernization](articles/architectural-review-app-modernization.md)
+  * [Backup, Disaster Recovery & Archive](articles/architectural-review-backup-dr-archive.md)
+  * [Database](articles/architectural-review-database.md)
+  * [Lift and Shift](articles/architectural-review-lift-and-shift.md)
+  * [Devtest](articles/architectural-review-devtest.md)
 
 
 # Contributing
