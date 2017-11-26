@@ -39,4 +39,4 @@ IaaS Fundamentals covers the core IaaS services (ARM, storage, compute and netwo
 
 ## Output to customer
 
-* **DO NOT USE - WIP** [IaaS Fundamentals GitHub page](https://github.com/Azure/fta-azurefundamentals/tree/master/iaas-fundamentals)
+* **DO NOT USE (WORK IN PROGRESS)** [IaaS Fundamentals GitHub page](https://github.com/Azure/fta-azurefundamentals/tree/master/iaas-fundamentals)
