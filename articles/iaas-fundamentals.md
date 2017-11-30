@@ -24,6 +24,8 @@ IaaS Fundamentals covers the core IaaS services (ARM, storage, compute and netwo
 
 ## Delivery guide
 
+> **Note:** when doing demos use [Azure Portal - public version](https://portal.azure.com/?feature.customportal=false)
+
 |  | Source format | Estimated time | Deliver from | Readiness Resources |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | FastTrack for Azure | PowerPoint | 15 min | [Delivery Ready IP\\_FTA program Overview and meet the team\Fast Track for Azure - Introduction to the program and team.pptx](https://microsoft.sharepoint.com/:p:/t/fasttrackforazure/CE/EcazqrisnQ9HtMeUpJJ3qhwBidLwLxU3YR--unHegKsdeg?e=ec5f9090fcc641238f3a683942df2b5b) | | 
