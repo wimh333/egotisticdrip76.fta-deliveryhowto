@@ -11,18 +11,19 @@ This track covers modernizing internal business app using Azure App Service
 * POC
 
 ## Prerequisites
-* A Microsoft Azure subscription (with Contributor access)
+* To complete the Proof of Concept, you will need:
+    * A Microsoft Azure subscription (with Contributor access)
 
-* Install Visual Studio 2017 version 15.4 (or latest) with following Workloads 
-    * .NET desktop development 
-    * ASP.NET and web development 
-    * Azure development  
-    * Data storage and processing 
+    * Install latest version of [Visual Studio 2017](https://www.visualstudio.com/downloads/) Enterprise with following Workloads:
+      * .NET desktop development 
+      * ASP.NET and web development 
+      * Azure development  
+      * Data storage and processing 
+    
+    * Download latest SQL Server Management Studio [here](https://docs.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms) and install:
+    
+    * Download Proof-of-concept project from [here](https://fasttrackforazure.blob.core.windows.net/sourcecode/Contoso.Expenses.zip)
 
-* Ensure the SSDT package is installed (Download SSDT for Visual Studio 2017 (15.4.0 preview)):  
-https://docs.microsoft.com/en-us/sql/ssdt/download-sql-server-data-tools-ssdt    
-
-* Download latest SQL Server Management Studio here and install 
 
 ## Delivery guide
 |  | Source format | Estimated time | Deliver from | Readiness Resources |
