@@ -22,6 +22,14 @@ Azure Governance
 * 1 person per session with the ability to share screen over skype meeting
 
 
+## Sessions
+
+* Sessions should be scheduled based on customer preferences.
+* Keep in mind that with longer sessions it's easier to lost attendees attention.
+* Remember to make short breaks if needed.
+* Suggestion: start by scheduling 1 sessions of 2 hours, and adjust if needed.
+
+
 ## Delivery guide
 
 |                               | Source format     | Estimated time| Deliver from  | Readiness Resources |
@@ -40,4 +48,5 @@ Azure Governance
 
 ## Output to customer
 
+* Slides: when requested, a PDF version of the slides can be shared with customer.
 * **DO NOT USE (WORK IN PROGRESS)** [Governance GitHub page](https://github.com/Azure/fta-azurefundamentals/tree/master/governance)
