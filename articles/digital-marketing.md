@@ -25,6 +25,8 @@ This module covers a Digital Marketing scenario, including Web Apps, SQL Databas
 
 ## Delivery guide
 
+* TTT How to deliver (WIP)
+
 |                                   | Source format | Estimated time  | Deliver from    | Readiness Resources   |
 | -------------                     | ------------- | -------------   | -------------   | -------------         |
 | Digital Marketing overview        | PowerPoint    |                 |                 |                       |
@@ -37,4 +39,5 @@ This module covers a Digital Marketing scenario, including Web Apps, SQL Databas
 
 ## Other Readiness Resources
 
-* TTT How to deliver (WIP)
+* [Digital marketing](https://azure.microsoft.com/en-us/solutions/digital-marketing/)
+* [Solution architecture: Simple digital marketing website](https://azure.microsoft.com/en-us/solutions/architecture/digital-marketing-smb/)
