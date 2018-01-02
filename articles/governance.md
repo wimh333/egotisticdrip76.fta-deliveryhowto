@@ -49,4 +49,4 @@ Azure Governance
 ## Output to customer
 
 * Slides: when requested, a PDF version of the slides can be shared with customer.
-* **DO NOT USE (WORK IN PROGRESS)** [Governance GitHub page](https://github.com/Azure/fta-azurefundamentals/tree/master/governance)
+* Reference Resources: [Governance GitHub page](https://github.com/Azure/fta-azurefundamentals/tree/master/governance)
