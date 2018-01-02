@@ -17,7 +17,8 @@ See our [FastTrack for Azure landing page](https://github.com/Azure/FastTrackFor
   * [Disaster Recovery with ASR](articles/disaster-recovery-with-asr.md)
 
 * Internal Business Apps
-  * [App Modernization](articles/app-modernization.md)
+  * [App Modernization using App Services](articles/app-modernization.md)
+  * [App Modernization using Service Fabric](articles/servicefabric.md)
   * [Lift and Shift](articles/lift-and-shift.md)
 
 * Customer Facing Apps
