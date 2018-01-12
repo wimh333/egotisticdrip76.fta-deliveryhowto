@@ -48,6 +48,8 @@ IaaS Fundamentals covers the core IaaS services (ARM, storage, compute and netwo
 | Networking | PowerPoint | 1 h | [Delivery Ready IP\Networking\Azure - Networking Overview.pptx](https://microsoft.sharepoint.com/:f:/t/fasttrackforazure/CE/EoKoA61s48JJr3TDWEj22hEBeQwAZUVHokBkAYuRplzF8A?e=1ac32b8936a748208755a3b5c8b7981c) | Office Mix recording: https://mix.office.com/watch/9f3x03k6p2lb | 
 | Architectural design best practices & guidance | PowerPoint | 1 h | [Delivery Ready IP\Design Principles\Design Principles for building applications on Azure IaaS.pptx](https://microsoft.sharepoint.com/:f:/t/fasttrackforazure/CE/EmDmB0mWOkZIktib4_HjiwwB0lTYImVj7AKKG6aMj3hfTA?e=b1c7632ca8bf46649d9753c57534a131) | | 
 | POC Scenario 1: Deploying Website on Azure IaaS VMs - HTTP | GitHub | 2 h | [https://github.com/Azure/fta-azurefundamentals/blob/master/iaas-fundamentals/articles/website-on-iaas-http.md](https://github.com/Azure/fta-azurefundamentals/blob/master/iaas-fundamentals/articles/website-on-iaas-http.md) | | 
+| POC Scenario 2: Deploying Website on Azure IaaS VMs - HTTPS | GitHub | 2 h | [https://github.com/Azure/fta-azurefundamentals/blob/master/iaas-fundamentals/articles/website-on-iaas-https.md](https://github.com/Azure/fta-azurefundamentals/blob/master/iaas-fundamentals/articles/website-on-iaas-http.md) | | 
+| POC Scenario 1: Deploying Website on Azure IaaS VMs - HTTP - Red Hat Linux | GitHub | 2 h | [https://github.com/Azure/fta-azurefundamentals/blob/master/iaas-fundamentals/articles/website-on-iaas-http.md](https://github.com/Azure/fta-azurefundamentals/blob/master/iaas-fundamentals/articles/website-on-iaas-http-rhel.md) | | 
 
 
 ## Output to customer
