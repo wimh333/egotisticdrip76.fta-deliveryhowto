@@ -28,11 +28,11 @@ This module covers an E-Commerce scenario, including Web Apps, SQL Database, App
 
 |                                   | Source format | Estimated time  | Deliver from    | Readiness Resources   |
 | -------------                     | ------------- | -------------   | -------------   | -------------         |
-| E-Commerce overview               | PowerPoint    |                 |                 |                       |
+| E-Commerce overview               | PowerPoint    |                 |                 | [E-commerce Overview TTT](https://msit.microsoftstream.com/video/38d4fdac-7f94-4c56-bc2a-f17a42c9d7f5) |
 | Azure Web Apps (optional)         | PowerPoint    |                 |                 |                       |
 | CDN (optional)                    | PowerPoint    |                 |                 |                       |
-| Redis Cache (optional)            | PowerPoint    |                 |                 |                       |
+| Redis Cache (optional)            | PowerPoint    |                 |                 | [Redis Cache TTT](https://msit.microsoftstream.com/video/a8066a16-af47-44ad-8335-d83cf2b60e3e) |
 | Applications Insights (optional)  | PowerPoint    |                 | [Delivery Ready IP\Customer Facing Apps\FTA - Application Insights.pptx](https://microsoft.sharepoint.com/teams/fasttrackforazure/CE/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fteams%2Ffasttrackforazure%2FCE%2FShared%20Documents%2FDelivery%20Ready%20IP%2FCustomer%20Facing%20Apps&FolderCTID=0x0120004142D6306BFD4A4E9C0E1C8ABF7FC84D) | [Application Insights TTT](https://msit.microsoftstream.com/video/234450bd-7d2e-48a8-83da-2a7251adb61b), [TECH-DEV308](https://digital.microsoftready.com/FY18/Session/TECH-DEV308) |
-| Azure Search (optional)           | PowerPoint    |                 |                 |                       |
-| Functions (Optional)              | PowerPoint    |                 |                 |                       |
-| POC: Running WordPress on Azure   | GitHub        |  3 hours        | https://github.com/Azure/fta-customerfacingapps/blob/master/ecommerce/articles/README.md |                       |
+| Azure Search (optional)           | PowerPoint    |                 |                 | [Azure Search TTT](https://msit.microsoftstream.com/video/505dad80-3fec-4fb6-94b7-16bba8d8482f) |
+| Azure Functions (Optional)        | PowerPoint    |                 |                 | [Azure Functions TTT](https://msit.microsoftstream.com/video/b7be3795-dbdc-4787-9a90-7da9769d473f) |
+| POC: Running WordPress on Azure   | GitHub        |  3 hours        | https://github.com/Azure/fta-customerfacingapps/blob/master/ecommerce/articles/README.md | [POC Scenario: E-commerce Website TTT](https://msit.microsoftstream.com/video/571395b7-d634-445c-95e0-b475ee960557) |
