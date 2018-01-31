@@ -36,3 +36,6 @@ This module covers an E-Commerce scenario, including Web Apps, SQL Database, App
 | Azure Search (optional)           | PowerPoint    |                 |                 | [Azure Search TTT](https://msit.microsoftstream.com/video/505dad80-3fec-4fb6-94b7-16bba8d8482f) |
 | Azure Functions (Optional)        | PowerPoint    |                 |                 | [Azure Functions TTT](https://msit.microsoftstream.com/video/b7be3795-dbdc-4787-9a90-7da9769d473f) |
 | POC: Running WordPress on Azure   | GitHub        |  3 hours        | https://github.com/Azure/fta-customerfacingapps/blob/master/ecommerce/articles/README.md | [POC Scenario: E-commerce Website TTT](https://msit.microsoftstream.com/video/571395b7-d634-445c-95e0-b475ee960557) |
+
+
+## Other Readiness Resources
