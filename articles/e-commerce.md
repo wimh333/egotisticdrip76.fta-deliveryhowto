@@ -1,12 +1,38 @@
-# E-commerce
+# E-Commerce
 
 ## Service description
+
+This module covers an E-Commerce scenario, including Web Apps, SQL Database, Application Insights, Content Delivery Network and Redis Cache. 
 
 
 ## Agenda
 
+* E-Commerce overview
+* Azure Web Apps (optional)
+* CDN (optional)
+* Redis Cache (optional)
+* Applications Insights (optional)
+* Azure Search (optional)
+* Functions (Optional)
+* POC E-Commerce
+
 
 ## Prerequisites
 
+*	A Microsoft Azure subscription (with Contributor access)
+*	Internet connection (RDP port open to external IP addresses)
+*	1 person per session with the ability to share screen over skype meeting
+*	Check pre-requisites of POC
 
 ## Delivery guide
+
+|                                   | Source format | Estimated time  | Deliver from    | Readiness Resources   |
+| -------------                     | ------------- | -------------   | -------------   | -------------         |
+| E-Commerce overview               | PowerPoint    |                 |                 |                       |
+| Azure Web Apps (optional)         | PowerPoint    |                 |                 |                       |
+| CDN (optional)                    | PowerPoint    |                 |                 |                       |
+| Redis Cache (optional)            | PowerPoint    |                 |                 |                       |
+| Applications Insights (optional)  | PowerPoint    |                 | [Delivery Ready IP\Customer Facing Apps\FTA - Application Insights.pptx](https://microsoft.sharepoint.com/teams/fasttrackforazure/CE/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fteams%2Ffasttrackforazure%2FCE%2FShared%20Documents%2FDelivery%20Ready%20IP%2FCustomer%20Facing%20Apps&FolderCTID=0x0120004142D6306BFD4A4E9C0E1C8ABF7FC84D) | [Application Insights TTT](https://msit.microsoftstream.com/video/234450bd-7d2e-48a8-83da-2a7251adb61b), [TECH-DEV308](https://digital.microsoftready.com/FY18/Session/TECH-DEV308) |
+| Azure Search (optional)           | PowerPoint    |                 |                 |                       |
+| Functions (Optional)              | PowerPoint    |                 |                 |                       |
+| POC: Running WordPress on Azure   | GitHub        |  3 hours        | https://github.com/Azure/fta-customerfacingapps/blob/master/ecommerce/articles/README.md |                       |
