@@ -30,7 +30,7 @@ This module covers a Digital Marketing scenario, including Web Apps, SQL Databas
 | Digital Marketing overview        | PowerPoint    |                 |                 |                       |
 | Azure Web Apps (optional)         | PowerPoint    |                 |                 |                       |
 | CDN (optional)                    | PowerPoint    |                 |                 |                       |
-| Redis Cache (optional)            | PowerPoint    |                 |                 |                       |
+| Redis Cache (optional)            | PowerPoint    |                 |                 | [Redis Cache TTT](https://msit.microsoftstream.com/video/a8066a16-af47-44ad-8335-d83cf2b60e3e) |
 | Applications Insights (optional)  | PowerPoint    |                 | [Delivery Ready IP\Customer Facing Apps\FTA - Application Insights.pptx](https://microsoft.sharepoint.com/teams/fasttrackforazure/CE/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2Fteams%2Ffasttrackforazure%2FCE%2FShared%20Documents%2FDelivery%20Ready%20IP%2FCustomer%20Facing%20Apps&FolderCTID=0x0120004142D6306BFD4A4E9C0E1C8ABF7FC84D) | [Application Insights TTT](https://msit.microsoftstream.com/video/234450bd-7d2e-48a8-83da-2a7251adb61b), [TECH-DEV308](https://digital.microsoftready.com/FY18/Session/TECH-DEV308) |
 | POC: Running WordPress on Azure   | GitHub        |  3 hours        | https://github.com/Azure/fta-customerfacingapps/blob/master/digital-marketing/articles/wordpress-on-azure-web-apps.md |                       |
 
