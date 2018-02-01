@@ -28,7 +28,7 @@ This module covers an E-Commerce scenario, including Web Apps, SQL Database, App
 
 |                                   | Source format | Estimated time  | Deliver from    | Readiness Resources   |
 | -------------                     | ------------- | -------------   | -------------   | -------------         |
-| E-Commerce overview               | PowerPoint    |                 |                 | [E-commerce Overview TTT](https://msit.microsoftstream.com/video/38d4fdac-7f94-4c56-bc2a-f17a42c9d7f5) |
+| E-Commerce overview               | PowerPoint    |                 | Work in progress| [E-commerce Overview TTT](https://msit.microsoftstream.com/video/38d4fdac-7f94-4c56-bc2a-f17a42c9d7f5) |
 | Azure Web Apps (optional)         | PowerPoint    |                 | [Delivery Ready IP\App Services\FTA - Web Apps.pptx](https://microsoft.sharepoint.com/:p:/t/fasttrackforazure/CE/EU21ANR_K9lKrb7AOHEwQ-IByTZMHKgoC9zIrIInwLUUsA?e=UcZ0SJ) | [Azure Web Apps TTT](https://msit.microsoftstream.com/video/33d852d8-3218-4981-8c12-1393059d1f1b) |
 | CDN (optional)                    | PowerPoint    |                 |                 |                       |
 | Redis Cache (optional)            | PowerPoint    |                 |                 | [Redis Cache TTT](https://msit.microsoftstream.com/video/a8066a16-af47-44ad-8335-d83cf2b60e3e) |
