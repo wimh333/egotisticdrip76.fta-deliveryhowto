@@ -56,3 +56,11 @@ IaaS Fundamentals covers the core IaaS services (ARM, storage, compute and netwo
 
 * Slides: when requested, a PDF version of the slides can be shared with customer.
 * POCs and Reference Resources: [IaaS Fundamentals GitHub page](https://github.com/Azure/fta-azurefundamentals/tree/master/iaas-fundamentals)
+
+
+## Other Readiness Resources
+
+* [Azure Administrator learning path](https://azure.microsoft.com/en-us/training/learning-paths/azure-administrator/)
+
+
+
