@@ -2,7 +2,7 @@
 
 ## Service description
 
-IaaS Fundamentals covers the core IaaS services (ARM, storage, compute and networking). The session includes the technical overview of each service, walk throughs to test individual scenarios and a final POC.
+IaaS Fundamentals covers the core IaaS services (ARM, storage, compute and networking). The session includes the technical overview of each service, walk throughs to test individual scenarios, guidance on how to design, build and deploy highly available, scalable, and secure applications on Azure IaaS, and a final POC.
 
 
 ## Agenda
