@@ -8,6 +8,7 @@ This module covers an E-Commerce scenario, including Web Apps, SQL Database, App
 ## Agenda
 
 * E-Commerce overview
+* Azure App Service Overview (optional)
 * Azure Web Apps (optional)
 * CDN (optional)
 * Redis Cache (optional)
